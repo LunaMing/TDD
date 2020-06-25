@@ -34,4 +34,4 @@ Assume we have a user account at /home/username
             ├── database
             ├── source
             ├── static
-	    └── virtualenv
+	       └── virtualenv
